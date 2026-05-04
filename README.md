@@ -2,6 +2,8 @@
 
 ### Builder · Tinkerer · Lifelong learner
 
+![Profile Views](https://komarev.com/ghpvc/?username=stevenAghnatios76&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ### 🧠 About Me
@@ -31,13 +33,25 @@
 
 ---
 
+### 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=stevenAghnatios76&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
+
+---
+
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stevenAghnatios76&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=stevenAghnatios76&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevenAghnatios76&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenAghnatios76&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### ⚡ Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stevenAghnatios76&theme=tokyo-night&hide_border=true)
 
 ---
 
