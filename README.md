@@ -2,7 +2,7 @@
 
 # Hey, I'm Steven 👋
 
-### Full-Stack Developer · AI/ML Explorer · Builder of useful things
+### Full-Stack ENGINEER · AI/ML Explorer · Builder of useful things
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code+%F0%9F%9A%80;Building+AI-powered+products+%F0%9F%A7%A0;Shipping+clean%2C+scalable+software+%E2%9C%A8" alt="Typing SVG" />
 
